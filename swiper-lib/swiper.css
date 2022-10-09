@@ -1,0 +1,14 @@
+.swiper {
+    width: 100%;
+    overflow: hidden;
+    user-select: none;
+}
+
+.swiper-line {
+    overflow: hidden;
+}
+
+.swiper-slide {
+    min-height: 1px;
+    float: left;
+}

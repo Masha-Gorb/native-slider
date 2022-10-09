@@ -1,0 +1,1 @@
+new Swiper(document.getElementById("swiper"));

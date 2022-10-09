@@ -1,0 +1,21 @@
+body {
+    margin: 0;
+}
+
+.slide {
+    /*width: 1024px;*/
+    height: 768px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.slide-1 {
+    background-color: #d4a9ff;
+}
+.slide-2 {
+    background-color: #fde16d;
+}
+.slide-3 {
+    background-color: #aeffa1;
+}
