@@ -1,14 +1,16 @@
 .swiper {
+    touch-action: none;
     width: 100%;
     overflow: hidden;
-    user-select: none;
 }
 
 .swiper-line {
+    touch-action: none;
     overflow: hidden;
 }
 
 .swiper-slide {
+    touch-action: none;
     min-height: 1px;
     float: left;
 }
