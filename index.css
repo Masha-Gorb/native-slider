@@ -11,11 +11,29 @@ body {
 }
 
 .slide-1 {
-    background-color: #d4a9ff;
+    background-image: url('asserts/background.png');
+    background-size: cover;
 }
+
+.hello_txt {
+    font-size: 10px;
+    color: rgb(36, 36, 36);
+    text-transform: uppercase;
+    line-height: 4.074;
+    text-align: left;
+    -ms-transform: matrix( 5.07288435581728,0,0,5.03087612481503,0,0);
+    position: absolute;
+    left: 232px;
+    top: 382px;
+    z-index: 7;
+}
+
+
 .slide-2 {
-    background-color: #fde16d;
+    background-image: url('asserts/bg2.png');
+    background-size: cover;
 }
 .slide-3 {
-    background-color: #aeffa1;
+    background-image: url('asserts/bg3.png');
+    background-size: cover;
 }
